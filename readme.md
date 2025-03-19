@@ -24,13 +24,9 @@ If you use this code, please cite our paper:
 ```
 @article{MMRNet2025,
   title={MMRNet: Ensemble Deep-Learning Models for Predicting Mismatch Repair Deficiency in Endometrial Cancer from Histopathological Images},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
+  author={Li-Li Liu, Bing-Zhong Jing, Xuan Liu, Rong-Gang Li, Zhao Wan, Jiang-Yu Zhang, Xiao-Ming Ouyang, Qing-Nuan Kong, Xiao-Ling Kang, Dong-Dong Wang, Hao-Hua Chen, Zi-Han Zhao, Hao-Yu Liang, Ma-Yan Huang, Cheng-You Zheng, Xia Yang, Xue-Yi Zheng, Xin-Ke Zhang, Li-Jun Wei, Chao Cao, Hong-Yi Gao, Rong-Zhen Luo, Mu-Yan Cai},
+  journal={Cell Reports Medicine},
   year={2025},
-  volume={X},
-  number={X},
-  pages={XX-XX},
-  doi={XX.XXXX/XXXXXX}
 }
 ```
 
